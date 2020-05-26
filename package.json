@@ -1,0 +1,8 @@
+{
+  "name": "convert-cidv0",
+  "main": "index.js",
+  "dependencies": {
+    "@actions/core": "^1.2.4",
+    "cids": "^0.8.1"
+  }
+}

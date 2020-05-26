@@ -1,0 +1,12 @@
+name: Convert CIDv0 to CIDv1
+description: Converts CIDv0 to CIDv1
+inputs:
+  cidv0:
+    description: CIDv0 e.g. Qm...
+    required: true
+outputs:
+  cidv1:
+    description: v1 version of v0 CID
+runs:
+  using: node12
+  main: index.js
