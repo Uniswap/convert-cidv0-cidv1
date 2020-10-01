@@ -2,7 +2,7 @@
   "name": "convert-cidv0",
   "main": "index.js",
   "dependencies": {
-    "@actions/core": "^1.2.4",
+    "@actions/core": "^1.2.6",
     "cids": "^0.8.1"
   }
 }
